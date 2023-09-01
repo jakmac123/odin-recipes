@@ -1,0 +1,18 @@
+body {
+    background-color: #82C0CC;
+    text-align: center;
+    
+}
+a,
+p,
+h1,
+h2,
+h3,
+ul,
+li {
+   font-family: Arial, Helvetica, sans-serif; 
+   color: #112A46;
+}
+button {
+    border: 4px #112A46;
+}
